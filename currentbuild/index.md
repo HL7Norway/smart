@@ -37,7 +37,7 @@ Utvikle oppdatert dokumentasjon om bruk av [SMART App Launch](https://hl7.org/fh
   "name" : "smart",
   "title" : "Smart",
   "status" : "draft",
-  "date" : "2026-10-08T12:47:33+00:00",
+  "date" : "2026-10-08T12:52:09+00:00",
   "publisher" : "HL7 Norge",
   "contact" : [{
     "name" : "HL7 Norge",
@@ -410,6 +410,15 @@ Utvikle oppdatert dokumentasjon om bruk av [SMART App Launch](https://hl7.org/fh
         }],
         "nameUrl" : "index.html",
         "title" : "Home",
+        "generation" : "markdown"
+      },
+      {
+        "extension" : [{
+          "url" : "http://hl7.org/fhir/tools/StructureDefinition/ig-page-name",
+          "valueUrl" : "mandat.html"
+        }],
+        "nameUrl" : "mandat.html",
+        "title" : "Mandat",
         "generation" : "markdown"
       }]
     },
