@@ -1,0 +1,20 @@
+{
+  "url" : "http://hl7.no/fhir/ig/smart/ImplementationGuide/hl7.fhir.no.smart",
+  "name" : "smart",
+  "title" : "Smart",
+  "description" : "Implementasjonsguide SMART - arbeidsutkast",
+  "status" : "draft",
+  "package-id" : "hl7.fhir.no.smart",
+  "ig-ver" : "0.1.0",
+  "date" : "Thu, 08 Oct, 2026 12:19:13 +0000",
+  "dateISO8601" : "2026-10-08T12:19:13+00:00",
+  "errs" : 1,
+  "warnings" : 18,
+  "hints" : 7,
+  "broken-links" : 0,
+  "suppressed-hints" : 0,
+  "suppressed-warnings" : 0,
+  "version" : "4.0.1",
+  "tool" : "6.0.0-snapshot1 (3)",
+  "maxMemory" : 893952776
+}

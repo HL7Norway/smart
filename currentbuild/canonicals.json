@@ -1,0 +1,21 @@
+[{
+  "id" : "hl7.fhir.no.smart",
+  "type" : "ImplementationGuide",
+  "url" : "http://hl7.no/fhir/ig/smart/ImplementationGuide/hl7.fhir.no.smart",
+  "version" : "0.1.0",
+  "name" : "smart"
+},
+{
+  "id" : "mal-observation-blodprove",
+  "type" : "StructureDefinition",
+  "url" : "http://hl7.no/fhir/ig/smart/StructureDefinition/mal-observation-blodprove",
+  "version" : "0.1.0",
+  "name" : "MalObservationBlood"
+},
+{
+  "id" : "mal-patient",
+  "type" : "StructureDefinition",
+  "url" : "http://hl7.no/fhir/ig/smart/StructureDefinition/mal-patient",
+  "version" : "0.1.0",
+  "name" : "MalPatient"
+}]
