@@ -17,7 +17,7 @@
   fhir:ImplementationGuide.name [ fhir:value "smart"] ;
   fhir:ImplementationGuide.title [ fhir:value "Smart"] ;
   fhir:ImplementationGuide.status [ fhir:value "draft"] ;
-  fhir:ImplementationGuide.date [ fhir:value "2026-10-08T12:19:13+00:00"^^xsd:dateTime] ;
+  fhir:ImplementationGuide.date [ fhir:value "2026-10-08T12:30:19+00:00"^^xsd:dateTime] ;
   fhir:ImplementationGuide.publisher [ fhir:value "HL7 Norge"] ;
   fhir:ImplementationGuide.contact [
      fhir:index 0 ;
@@ -396,20 +396,6 @@
          fhir:Extension.valueString [ fhir:value "StructureDefinition:resource" ]
        ] ;
        fhir:ImplementationGuide.definition.resource.reference [
-         fhir:link <http://hl7.no/fhir/ig/smart/StructureDefinition/mal-observation-blodprove> ;
-         fhir:Reference.reference [ fhir:value "StructureDefinition/mal-observation-blodprove" ]
-       ] ;
-       fhir:ImplementationGuide.definition.resource.name [ fhir:value "Blodprøve" ] ;
-       fhir:ImplementationGuide.definition.resource.description [ fhir:value "Profil for vanlige blodprøver" ] ;
-       fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
-     ], [
-       fhir:index 1 ;
-       fhir:Element.extension [
-         fhir:index 0 ;
-         fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ] ;
-         fhir:Extension.valueString [ fhir:value "StructureDefinition:resource" ]
-       ] ;
-       fhir:ImplementationGuide.definition.resource.reference [
          fhir:link <http://hl7.no/fhir/ig/smart/StructureDefinition/mal-patient> ;
          fhir:Reference.reference [ fhir:value "StructureDefinition/mal-patient" ]
        ] ;
@@ -417,7 +403,7 @@
        fhir:ImplementationGuide.definition.resource.description [ fhir:value "Informasjon om pasienten, basert på no-basis." ] ;
        fhir:ImplementationGuide.definition.resource.exampleBoolean [ fhir:value "false"^^xsd:boolean ]
      ], [
-       fhir:index 2 ;
+       fhir:index 1 ;
        fhir:Element.extension [
          fhir:index 0 ;
          fhir:Extension.url [ fhir:value "http://hl7.org/fhir/tools/StructureDefinition/resource-information" ] ;

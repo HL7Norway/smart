@@ -9,7 +9,6 @@
 
 ### Resource Profiles
 
-* [Blodprøve](StructureDefinition-mal-observation-blodprove.md)
 * [Pasient](StructureDefinition-mal-patient.md)
 
 ### ImplementationGuides

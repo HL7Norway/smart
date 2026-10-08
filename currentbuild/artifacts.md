@@ -13,7 +13,6 @@ These define constraints on FHIR resources for systems conforming to this implem
 
 | | |
 | :--- | :--- |
-| [Blodprøve](StructureDefinition-mal-observation-blodprove.md) | Profil for vanlige blodprøver |
 | [Pasient](StructureDefinition-mal-patient.md) | Informasjon om pasienten, basert på no-basis. |
 
 ### Example: Example Instances 

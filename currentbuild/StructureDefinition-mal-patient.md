@@ -16,7 +16,6 @@ Informasjon om pasienten, basert på no-basis.
 
 **Usages:**
 
-* Refer to this Profile: [Blodprøve](StructureDefinition-mal-observation-blodprove.md)
 * Examples for this Profile: [Patient/Pasient-1](Patient-Pasient-1.md)
 
 You can also check for [usages in the FHIR IG Statistics](https://packages2.fhir.org/xig/resource/hl7.fhir.no.smart|current/StructureDefinition/StructureDefinition-mal-patient.json)

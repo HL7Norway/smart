@@ -10,39 +10,9 @@
 | *Official URL*:http://hl7.no/fhir/ig/smart/ImplementationGuide/hl7.fhir.no.smart | *Version*:0.1.0 |
 | Draft as of 2026-10-08 | *Computable Name*:smart |
 
-### Tittel
+### SMART on FHIR i Norge
 
-Introduksjonstekst (husk at dette er en mal, og ALL tekst må endres - dette er kun et eksempel)
-
-### Mål
-
-Målet med denne implementasjonsguiden er å gi en standardisert måte å representere og utveksle helsedata på ved hjelp av HL7 FHIR. Guiden beskriver hvordan ulike FHIR-profiler og ressurser kan brukes for å oppnå interoperabilitet mellom helsesystemer.
-
-### Omfang
-
-Denne implementasjonsguiden dekker følgende områder:
-
-* Pasientadministrasjon
-* Kliniske observasjoner
-* Medisinsk historikk
-* Behandlingsplaner
-* Laboratorieresultater
-
-### Brukstilfeller
-
-#### Pasientregistrering
-
-Denne guiden beskriver hvordan pasienter kan registreres i et helsesystem ved hjelp av FHIR `Patient`-ressursen. Eksempler inkluderer opprettelse, oppdatering og sletting av pasientdata.
-
-#### Kliniske observasjoner
-
-Guiden viser hvordan kliniske observasjoner som blodtrykk, puls og temperatur kan representeres ved hjelp av FHIR `Observation`-ressursen.
-
-### Figur
-
-Eksempel på en figur laget med PlantUML.
-
-![](test.svg)
+Under arbeid. Prosjekt under etablering.
 
 
 
@@ -57,7 +27,7 @@ Eksempel på en figur laget med PlantUML.
   "name" : "smart",
   "title" : "Smart",
   "status" : "draft",
-  "date" : "2026-10-08T12:19:13+00:00",
+  "date" : "2026-10-08T12:30:19+00:00",
   "publisher" : "HL7 Norge",
   "contact" : [{
     "name" : "HL7 Norge",
@@ -384,22 +354,6 @@ Eksempel på en figur laget med PlantUML.
       "url" : "http://hl7.org/fhir/tools/StructureDefinition/ig-parameter"
     }],
     "resource" : [{
-      "extension" : [{
-        "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
-        "valueString" : "StructureDefinition:resource"
-      },
-      {
-        "url" : "http://hl7.org/fhir/StructureDefinition/implementationguide-page",
-        "valueUri" : "StructureDefinition-mal-observation-blodprove.html"
-      }],
-      "reference" : {
-        "reference" : "StructureDefinition/mal-observation-blodprove"
-      },
-      "name" : "Blodprøve",
-      "description" : "Profil for vanlige blodprøver",
-      "exampleBoolean" : false
-    },
-    {
       "extension" : [{
         "url" : "http://hl7.org/fhir/tools/StructureDefinition/resource-information",
         "valueString" : "StructureDefinition:resource"
