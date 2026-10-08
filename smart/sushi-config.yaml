@@ -25,6 +25,7 @@ dependencies:
 # │  To use a provided input/includes/menu.xml file, delete the "menu" property below.             │
 # ╰────────────────────────────────────────────────────────────────────────────────────────────────╯
 menu:
-  Home: index.html
+  Hjem: index.html
+  Mandat: mandat.html
 #  Artifacts: artifacts.html
-  TOC: toc.html
+  Innhold: toc.html
