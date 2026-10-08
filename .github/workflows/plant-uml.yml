@@ -1,8 +1,6 @@
 name: Generate PlantUML
 on:
-  push:
-    branches:
-      - main
+
   workflow_dispatch:
 
 jobs:
@@ -18,7 +16,7 @@ jobs:
       id: plantuml
       uses: grassedge/generate-plantuml-action@v1.5
       with:
-        path: mal/input/images
+        path: smart/input/images
         message: "Render PlantUML files"
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
