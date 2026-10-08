@@ -3,3 +3,6 @@
 # SMART on FHIR i Norge
 
 Under utvikling. 
+
+- [Chat på Zulip](https://chat.fhir.org/#narrow/channel/179226-norway/topic/SMART.20App.20Launch.20i.20Norge)
+- [Prosjekt](https://github.com/orgs/HL7Norway/projects/13)
