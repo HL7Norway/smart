@@ -2,6 +2,18 @@ smart
 =========================================
 
 Generic: line 0, col 0, Warning - The reference urn:iso:std:iso:3166 could not be resolved (INVARIANT)
+Generic: line 0, col 0, Error - The heading <h1> 'Bakgrunn, problem, formål' (id=bakgrunn-problem-formål) is at a higher level than the first heading on the page (<h2> 'Mandat'). The first heading on a page must be its top level heading (WCAG compliance test) (STRUCTURE)
+Generic: line 0, col 0, Error - The heading <h1> 'Leveranse og avgrensninger' (id=leveranse-og-avgrensninger) is at a higher level than the first heading on the page (<h2> 'Mandat'). The first heading on a page must be its top level heading (WCAG compliance test) (STRUCTURE)
+Generic: line 0, col 0, Error - The page has more than one top level heading: <h2> 'Arbeidsgruppen skal levere:' (id=arbeidsgruppen-skal-levere) is at the same level as the first heading on the page (<h2> 'Mandat'). A page must have exactly one top level heading, with every other heading beneath it (WCAG compliance test) (STRUCTURE)
+Generic: line 0, col 0, Error - The page has more than one top level heading: <h2> 'Avgrensning' (id=avgrensning) is at the same level as the first heading on the page (<h2> 'Mandat'). A page must have exactly one top level heading, with every other heading beneath it (WCAG compliance test) (STRUCTURE)
+Generic: line 0, col 0, Error - The heading <h1> 'Organisering og roller' (id=organisering-og-roller) is at a higher level than the first heading on the page (<h2> 'Mandat'). The first heading on a page must be its top level heading (WCAG compliance test) (STRUCTURE)
+Generic: line 0, col 0, Error - The page has more than one top level heading: <h2> 'Prosjekteier/oppdragsgiver' (id=prosjekteieroppdragsgiver) is at the same level as the first heading on the page (<h2> 'Mandat'). A page must have exactly one top level heading, with every other heading beneath it (WCAG compliance test) (STRUCTURE)
+Generic: line 0, col 0, Error - The page has more than one top level heading: <h2> 'Prosjektleder' (id=prosjektleder) is at the same level as the first heading on the page (<h2> 'Mandat'). A page must have exactly one top level heading, with every other heading beneath it (WCAG compliance test) (STRUCTURE)
+Generic: line 0, col 0, Error - The page has more than one top level heading: <h2> 'Sammensetning av arbeidsgruppen' (id=sammensetning-av-arbeidsgruppen) is at the same level as the first heading on the page (<h2> 'Mandat'). A page must have exactly one top level heading, with every other heading beneath it (WCAG compliance test) (STRUCTURE)
+Generic: line 0, col 0, Error - The heading <h1> 'Rammer og begrensninger' (id=rammer-og-begrensninger) is at a higher level than the first heading on the page (<h2> 'Mandat'). The first heading on a page must be its top level heading (WCAG compliance test) (STRUCTURE)
+Generic: line 0, col 0, Error - The page has more than one top level heading: <h2> 'Tidsramme' (id=tidsramme) is at the same level as the first heading on the page (<h2> 'Mandat'). A page must have exactly one top level heading, with every other heading beneath it (WCAG compliance test) (STRUCTURE)
+Generic: line 0, col 0, Error - The page has more than one top level heading: <h2> 'Budsjettmessige/økonomiske forhold' (id=budsjettmessigeøkonomiske-forhold) is at the same level as the first heading on the page (<h2> 'Mandat'). A page must have exactly one top level heading, with every other heading beneath it (WCAG compliance test) (STRUCTURE)
+Generic: line 0, col 0, Error - The heading <h1> 'Forankring av arbeidet og videre prosess' (id=forankring-av-arbeidet-og-videre-prosess) is at a higher level than the first heading on the page (<h2> 'Mandat'). The first heading on a page must be its top level heading (WCAG compliance test) (STRUCTURE)
 Generic: line 0, col 0, Warning - The html source is not well formed: Found "</a>" expecting "</img>" at line 34 column 177 (STRUCTURE)
 Generic: line 0, col 0, Warning - The html source is not well formed: Found "</div>" expecting "</body>" at line 79 column 10 (STRUCTURE)
 Generic: line 0, col 0, Warning - The html source is not well formed: Found "</div>" expecting "</body>" at line 80 column 9 (STRUCTURE)
@@ -25,5 +37,5 @@ Generic: line 0, col 0, Warning - The HTML fragment 'globals-table.xhtml' is not
 /__w/smart/smart/smart/fsh-generated/resources/StructureDefinition-mal-patient.json: line 0, col 0, Error - The valueSet reference urn:iso:std:iso:3166 on element Patient.extension.extension points to something that is not a value set (CodeSystem) (BUSINESSRULE)
 /__w/smart/smart/smart/fsh-generated/resources/StructureDefinition-mal-patient.json: line 0, col 0, Info - The resource StructureDefinition/mal-patient could usefully have an OID assigned (OIDs are easy to assign - see https://build.fhir.org/ig/FHIR/ig-guidance/oids.html) (BUSINESSRULE)
 
-err = 1, warn = 17, info = 5, broken links = 0
+err = 13, warn = 17, info = 5, broken links = 0
 IG Publisher Version: 3.0.0

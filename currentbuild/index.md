@@ -8,7 +8,7 @@
 | | |
 | :--- | :--- |
 | *Official URL*:http://hl7.no/fhir/ig/smart/ImplementationGuide/hl7.fhir.no.smart | *Version*:0.1.0 |
-| Draft as of 2026-10-08 | *Computable Name*:smart |
+| Draft as of 2026-10-09 | *Computable Name*:smart |
 
 ### SMART on FHIR i Norge
 
@@ -37,7 +37,7 @@ Utvikle oppdatert dokumentasjon om bruk av [SMART App Launch](https://hl7.org/fh
   "name" : "smart",
   "title" : "Smart",
   "status" : "draft",
-  "date" : "2026-10-08T12:52:09+00:00",
+  "date" : "2026-10-09T10:25:45+00:00",
   "publisher" : "HL7 Norge",
   "contact" : [{
     "name" : "HL7 Norge",
