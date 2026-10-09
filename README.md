@@ -4,9 +4,11 @@
 
 Under utvikling. 
 
-## Mål
+## Mål og mandat
 
 Utvikle oppdatert dokumentasjon om bruk av [SMART App Launch](https://hl7.org/fhir/smart-app-launch/) i Norge med nødvendige tilpasninger. 
+
+Se: [Mandat](smart/input/pagecontent/mandat.md) (utkast)
 
 ## Verktøy
 
